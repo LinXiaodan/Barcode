@@ -11,7 +11,7 @@ Ubuntu16.0
 ```bash
 sudo apt-get install build-essential libgtk2.0-dev libjpeg-dev libtiff5-dev libjasper-dev libopenexr-dev cmake libeigen3-dev yasm libfaac-dev libtheora-dev libx264-dev libv4l-dev libavcodec-dev libavformat-dev libswscale-dev libv4l-dev ffmpeg
 ```
-* 将opencv-3.2.0.zip解压到某个目录下，在命令行中进入该目录
+* 在官网上面下载opencv-3.2.0.zip，解压到某个目录下，在命令行中进入该目录
 * 新建编译目录并进入
 ```bash
 mkdir release
